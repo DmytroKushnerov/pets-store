@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="807e9152-aa3b-4cdb-971c-b69e64ca9689" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ClientAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Endpoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PetCreationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PetDeletionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PetImageUpdateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PetUpdateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/UserCreationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/UserListCreationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/UserLoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/UserLogoutTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2bPot0IVVzWR3CR3EyWGbhySrrL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.PetCreationTest.addNewPetTest.executor": "Run",
+    "JUnit.PetDeletionTest.deletePetInvalidIdTest.executor": "Run",
+    "JUnit.PetDeletionTest.deletePetNotFoundTest.executor": "Run",
+    "JUnit.PetDeletionTest.deletePetTest.executor": "Run",
+    "JUnit.PetImageUpdateTest.updatePetImageTest.executor": "Run",
+    "JUnit.PetUpdateTest.updatePetNameAndStatusTest.executor": "Run",
+    "JUnit.UserListCreationTest.createMultipleUsersWithList.executor": "Run",
+    "JUnit.UserLogoutTest.logoutUserTest.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.UserCreationTest.createUser.executor": "Run",
+    "TestNG.UserCreationTest.executor": "Run",
+    "TestNG.UserCreationTest.invalidUsernameUserCreation.executor": "Run",
+    "TestNG.UserCreationTest.loginNonExistingUser.executor": "Run",
+    "TestNG.UserCreationTest.validUserCreation.executor": "Run",
+    "TestNG.UserLoginTest.executor": "Run",
+    "TestNG.UserLoginTest.invalidLoginUser.executor": "Run",
+    "TestNG.UserLoginTest.invalidUsernameLogin.executor": "Run",
+    "TestNG.UserLoginTest.loginUser.executor": "Run",
+    "TestNG.UserLoginTest.validLoginUser.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Dmytro_Kushnerov/IdeaProjects/automation-tests",
+    "onboarding.tips.debug.path": "C:/Users/Dmytro_Kushnerov/IdeaProjects/pets-store/src/main/java/org/example/Main.java",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.gitlab.GitLabSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.PetDeletionTest.deletePetNotFoundTest">
+    <configuration name="PetDeletionTest.deletePetNotFoundTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pets-store" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PetDeletionTest" />
+      <option name="METHOD_NAME" value="deletePetNotFoundTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PetDeletionTest.deletePetTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pets-store" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PetDeletionTest" />
+      <option name="METHOD_NAME" value="deletePetTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PetImageUpdateTest.updatePetImageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pets-store" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PetImageUpdateTest" />
+      <option name="METHOD_NAME" value="updatePetImageTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserListCreationTest.createMultipleUsersWithList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pets-store" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UserListCreationTest" />
+      <option name="METHOD_NAME" value="createMultipleUsersWithList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserCreationTest.createUser" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="pets-store" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UserCreationTest" />
+      <option name="METHOD_NAME" value="createUser" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PetDeletionTest.deletePetNotFoundTest" />
+        <item itemvalue="JUnit.PetImageUpdateTest.updatePetImageTest" />
+        <item itemvalue="TestNG.UserCreationTest.createUser" />
+        <item itemvalue="JUnit.UserListCreationTest.createMultipleUsersWithList" />
+        <item itemvalue="JUnit.PetDeletionTest.deletePetTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-4caba194b151-23eed401" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="807e9152-aa3b-4cdb-971c-b69e64ca9689" name="Changes" comment="" />
+      <created>1706126288113</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706126288113</updated>
+    </task>
+    <servers />
+  </component>
+</project>
